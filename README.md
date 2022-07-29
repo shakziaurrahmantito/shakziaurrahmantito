@@ -1,9 +1,4 @@
 ### Hi! I'm Md. Ziaur Rahman 👋
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg" width="100%" height="300px"></a></p>
-
-## About Me
-
 Hi, Have a nice day. My name is Md. Ziaur Rahman. I`m a Professional Web Developer from (IsDB-BISEW) in PHP programming language. I graduated from Railly Abdul Jabbar Polytechnic Institute and my subject was computer technology. I am a Computer Science and Engineering student. My favorite work is programming. I can create a website for you from scratch. I support any kind of problem can styling PHP or Web Design. This may include server-side errors, data retrieval, or other programming issues. I can create a website for you from PSD, JPG any image on another website. I will create a professional web design & development and build a responsive website.
 
 
