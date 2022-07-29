@@ -1,6 +1,6 @@
 ### Hi! I'm Md. Ziaur Rahman 👋
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://2.bp.blogspot.com/-j6QKlK5sbuM/WPN7ELKXi3I/AAAAAAAAByw/3XnUtfLJGKsE_WYz12tUfKI_3xPmTjCQwCLcB/s640/php-programming.jpg" width="100%" height="300px"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg" width="100%" height="300px"></a></p>
 
 ## About Me
 
