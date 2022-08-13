@@ -17,6 +17,7 @@ I can do the above tasks correctly
 
 ### Completed Projects
 
+- **[Personal Calculation Application (Laravel 9.x)](https://pcs.shakziaurrahmantito.tk/)**
 - **[Simple Billing Application (Laravel 9.x)](https://www.billingapplication.shakziaurrahmantito.tk/)**
 - **[School Management System (Laravel 9.x)](https://www.school.shakziaurrahmantito.tk/)**
 - **[Ecommerce System (Laravel 8.x)](https://elaravel.shakziaurrahmantito.tk/)**
